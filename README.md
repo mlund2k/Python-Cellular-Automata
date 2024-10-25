@@ -1,7 +1,7 @@
 # Python-Cellular-Automata
 
 
-This repository contains assets for a personal school project on cellular automata in Python
+This repository contains assets for a personal academic project on cellular automata in Python
 
 
 Check out the code with the following links:
